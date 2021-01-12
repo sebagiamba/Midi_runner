@@ -1,2 +1,2 @@
 # Midi_runner
-Academic studies of functional programming
+I just wrote some excercises, not the wole code.
